@@ -1,0 +1,27 @@
+{
+  "python": "3.13.18",
+  "tensorflow": "2.21.0",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "platform": "Linux-6.18.44-fc-v233-x86_64-with-glibc2.39",
+  "processor": "x86_64",
+  "cpu_count": 2,
+  "n_days": 491,
+  "start": "2020-04-01",
+  "end": "2021-08-04",
+  "window": 14,
+  "horizon": 7,
+  "smoothing": 7,
+  "n_train": 335,
+  "n_val": 37,
+  "n_test": 93,
+  "train_origins": "2020-04-20..2021-03-20",
+  "val_origins": "2021-03-21..2021-04-26",
+  "test_origins": "2021-04-27..2021-07-28",
+  "test_targets": "2021-05-04..2021-08-04",
+  "arima_order": [
+    0,
+    1,
+    0
+  ]
+}

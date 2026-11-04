@@ -1,0 +1,22 @@
+{
+  "CNN-1D": {
+    "trainable": 4579,
+    "non_trainable": 0
+  },
+  "LSTM": {
+    "trainable": 17603,
+    "non_trainable": 0
+  },
+  "Stacked LSTM": {
+    "trainable": 29923,
+    "non_trainable": 0
+  },
+  "HDLM (CNN + stacked LSTM)": {
+    "trainable": 40771,
+    "non_trainable": 0
+  },
+  "Record CNN (Table 1)": {
+    "trainable": 5723457,
+    "non_trainable": 0
+  }
+}
